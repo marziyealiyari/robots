@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="robots:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/robots_jar</output-path>
+    <root id="archive" name="robots.jar">
+      <element id="module-output" name="robots" />
+    </root>
+  </artifact>
+</component>
