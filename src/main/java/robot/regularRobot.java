@@ -6,6 +6,6 @@ public class regularRobot extends robots {
     @Override
     public void update(Observable o, Object arg) {
         super.update(o, arg);
-        System.out.println("پیام دریافت گردید");
+        System.out.println("message");
     }
 }
